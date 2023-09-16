@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fundooooo"
+    tools:context=".Gameplay">
+
+    <ImageButton
+        android:id="@+id/ib_voltar"
+        android:layout_width="80dp"
+        android:layout_height="55dp"
+        android:layout_marginStart="-20dp"
+        android:layout_marginTop="0dp"
+        android:background="@null"
+        android:contentDescription="@string/sair"
+        android:tint="@color/amarelo"
+        app:srcCompat="?attr/homeAsUpIndicator"
+        tools:ignore="UseAppTint,ImageContrastCheck" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="-50dp"
+        android:layout_marginTop="50dp"
+
+
+        tools:ignore="UselessParent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical"
+            tools:ignore="UseCompoundDrawables">
+
+            <ImageView
+                android:layout_width="500dp"
+                android:layout_height="157dp"
+                android:layout_marginTop="10dp"
+                android:contentDescription="@string/titulo"
+                app:srcCompat="@drawable/gameplay1" />
+
+            <ImageButton
+                android:id="@+id/btnyoutube"
+                android:layout_width="270dp"
+                android:layout_height="100dp"
+                android:layout_marginTop="2dp"
+                android:layout_marginBottom="50dp"
+                android:background="@null"
+                android:contentDescription="@string/youtube"
+                android:scaleType="centerInside"
+                app:srcCompat="@drawable/youtubelogo" />
+
+            <TextView
+                android:layout_width="400dp"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="20dp"
+                android:fontFamily="@font/alata"
+                android:gravity="center"
+                android:text="@string/Gameplay3"
+                android:textColor="@color/design_default_color_background"
+                android:textSize="54sp" />
+
+            <TextView
+                android:layout_width="351dp"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="20dp"
+                android:fontFamily="@font/alata"
+                android:gravity="center"
+                android:text="@string/gameplay2"
+                android:textColor="@color/design_default_color_background"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="400dp"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="20dp"
+                android:fontFamily="@font/alata"
+                android:gravity="center"
+                android:text="@string/gameplay4"
+                android:textColor="@color/design_default_color_background"
+                android:textSize="54sp" />
+
+            <TextView
+                android:layout_width="351dp"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="20dp"
+                android:fontFamily="@font/alata"
+                android:gravity="center"
+                android:text="@string/mecaprincipais"
+                android:textColor="@color/design_default_color_background"
+                android:textSize="24sp" />
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

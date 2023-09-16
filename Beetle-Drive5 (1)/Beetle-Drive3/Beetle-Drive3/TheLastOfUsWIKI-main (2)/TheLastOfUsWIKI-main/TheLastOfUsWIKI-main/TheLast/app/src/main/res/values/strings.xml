@@ -1,0 +1,25 @@
+<resources>
+
+    <string name="scrolltest">ScrollTest</string>
+    <string name="enredo">Enredo</string>
+    <string name="inimigo">inimigo</string>
+    <string name="gameplay">gameplay</string>
+    <string name="car">Carros</string>
+     <string name="Historia">Beetle Driver</string>
+    <string name="inimigostext">A policia representa uma ameaça constante para os jogadores que buscam alcançar a maior distância possível. Ele tentam capturar o jogador, aumentando a adrenalina de corrida. A policia adiciona um elemento de perseguição, forçando o jogador a não falhar na pista.
+    \n \n Além da policia, os obstáculos são inimigos em seu jogo. Eles podem assumir várias formas, como barricadas, carros, buracos na estrada, que devem desviar e superá-los para continuar avançando na pista. Eles podem ser interpretados como obstáculos à liberdade do jogador, e superá-los simboliza a sua liberdade</string>
+    <string name="sair">sair</string>
+    <string name="mecaprincipais">O jogador pode controlar o carro através das teclas de setas (esquerda e direita) do teclado. Para implementar esse controle, será utilizado o sistema de input do Unity, com o uso da função Input.GetAxis para detectar a movimentação horizontal do carro.
+    \n \n Moedas serão espalhadas ao longo da avenida, e o jogador deverá coletá-las para aumentar sua pontuação. A detecção de coleta de moedas será feita através de colisores e tags especificas no script do jogador. Cada moeda coletada acrescentará um valor específico à pontuação total.
+    \n \n A geração de carros inimigos será controlada por um sistema randomizado para garantir o desempenho e evitar instanciar e destruir objetos repetidamente. Os carros inimigos serão controlados por um sistema para definir caminhos e evitar colisões.
+
+A perseguição policial será acionada por um evento de progressão, como tempo decorrido. Os carros de polícia serão instanciados no cenário e se movimentarão usando um sistema de seguir o jogador.</string>
+    <string name="gameplay2">\n Em Beetle Driver, você assume o papel de um habilidoso motorista em fuga, conduzindo um fusca em alta velocidade enquanto é perseguido por um carro de polícia determinado a capturá-lo. Enquanto foge, desvie de carros que se movem rapidamente pela avenida. O objetivo é percorrer e coletar uma específica quantidade de moedas sem colidir com outros carros da avenida e sem ser parado pela polícia.</string>
+    <string name="gameplay4">Mecânicas Principais</string>
+    <string name="games">games</string>
+    <string name="Gameplay3">Gameplay</string>
+    <string name="spotify">Spotify</string>
+    <string name="youtube">youtube</string>
+    <string name="titulo" />
+    <string name="maintitulo">titulo</string>
+</resources>
