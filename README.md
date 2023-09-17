@@ -12,7 +12,7 @@
 
 - No canto superior esquerdo um ImageButtom para voltar a tela de Menu. Colocamos os textos dentro de uma scrollview para facilitar a leitura do nosso enredo.
 
-# Obstáculos
+# Inimigos
 
 - Segue o nosso padrão de botões, com ImageButtom no canto superior esquerdo e os textos explicando os obstáculos dentro de uma scrollview.
 
