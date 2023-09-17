@@ -1,8 +1,8 @@
 # Trabalho-Mobile-Beetle-driver
 
-Aplicativo desenvolvido para explicar e contar a história do nosso jogo;
-O aplicativo contém 4 telas contando com o Menu. implicita dentro do app;
-Utilizamos também 4 intents explicita e 1 intent implicita .
+- Aplicativo desenvolvido para explicar e contar a história do nosso jogo;
+- O aplicativo contém 4 telas contando com o Menu. implicita dentro do app;
+- Utilizamos também 4 intents explicita e 1 intent implicita .
 
 # Menu
 
