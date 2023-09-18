@@ -1,5 +1,9 @@
 # Trabalho-Mobile-Beetle-driver
 
+- Trabalho desenvolvido por Léo Kenzo e Iago Carvalho.
+</br>
+</br>
+
 - Aplicativo desenvolvido para explicar e contar a história do nosso jogo;
 - O aplicativo contém 4 telas contando com o Menu.;
 - Utilizamos também 4 intents explicita e 4 intent implicita .
@@ -7,6 +11,10 @@
 # Menu
 
 - No menu colocamos um uma Imageview que é o título do nosso jogo. Logo abaixo dentro de uma Scrollview os três botões que irão te direcionar para o Enredo, Obstáculos/Inimigos e Gameplay.
+</br>
+
+![Menu (2)](https://github.com/IagoICS/Trabalho-Mobile-Beetle-driver/assets/101646035/226c5816-9821-45bd-af2d-023e1109d325)
+
 
 # Enredo
 
