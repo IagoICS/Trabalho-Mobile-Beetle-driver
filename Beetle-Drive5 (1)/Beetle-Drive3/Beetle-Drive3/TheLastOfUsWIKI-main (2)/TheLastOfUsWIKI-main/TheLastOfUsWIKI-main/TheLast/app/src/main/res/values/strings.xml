@@ -5,7 +5,9 @@
     <string name="inimigo">inimigo</string>
     <string name="gameplay">gameplay</string>
     <string name="car">Carros</string>
-     <string name="Historia">Beetle Driver</string>
+     <string name="Historia">Você é Thales Bicalho, um ex-ladrão de alto nível que decidiu deixar sua vida criminosa para trás e se estabelecer em uma cidade tranquila. No entanto, seu passado sombrio retorna para assombrá-lo quando um antigo parceiro o arrasta de volta para o mundo do crime. Juntos, vocês planejam o roubo de uma valiosa joia que está sendo transportada pela cidade.
+
+\n \n A ação começa quando o roubo corre bem, mas a fuga se torna uma corrida desesperada contra o tempo. Vocês são perseguidos implacavelmente pela polícia </string>
     <string name="inimigostext">A policia representa uma ameaça constante para os jogadores que buscam alcançar a maior distância possível. Ele tentam capturar o jogador, aumentando a adrenalina de corrida. A policia adiciona um elemento de perseguição, forçando o jogador a não falhar na pista.
     \n \n Além da policia, os obstáculos são inimigos em seu jogo. Eles podem assumir várias formas, como barricadas, carros, buracos na estrada, que devem desviar e superá-los para continuar avançando na pista. Eles podem ser interpretados como obstáculos à liberdade do jogador, e superá-los simboliza a sua liberdade</string>
     <string name="sair">sair</string>
@@ -20,6 +22,8 @@ A perseguição policial será acionada por um evento de progressão, como tempo
     <string name="Gameplay3">Gameplay</string>
     <string name="spotify">Spotify</string>
     <string name="youtube">youtube</string>
-    <string name="titulo" />
+    <string name="github">github</string>
+    <string name="maps">google maps</string>
+    <string name="titulo"> titulo</string>
     <string name="maintitulo">titulo</string>
 </resources>

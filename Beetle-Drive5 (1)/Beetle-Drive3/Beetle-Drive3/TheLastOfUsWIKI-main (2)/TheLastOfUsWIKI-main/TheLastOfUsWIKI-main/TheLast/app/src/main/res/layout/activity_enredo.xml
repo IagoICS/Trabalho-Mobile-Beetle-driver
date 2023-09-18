@@ -42,6 +42,17 @@
                 android:contentDescription="@string/titulo"
                 app:srcCompat="@drawable/enredo2" />
 
+            <ImageButton
+                android:id="@+id/btnmaps"
+                android:layout_width="270dp"
+                android:layout_height="100dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="50dp"
+                android:background="@null"
+                android:contentDescription="@string/maps"
+                android:scaleType="centerInside"
+                app:srcCompat="@drawable/maps" />
+
             <TextView
 
                 android:layout_width="351dp"
@@ -53,6 +64,16 @@
                 android:textColor="@color/design_default_color_background"
                 android:textSize="34sp"
                 tools:ignore="TextSizeCheck" />
+            <ImageButton
+                android:id="@+id/btngithub"
+                android:layout_width="270dp"
+                android:layout_height="100dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="50dp"
+                android:background="@null"
+                android:contentDescription="@string/github"
+                android:scaleType="fitCenter"
+                app:srcCompat="@drawable/github1" />
 
 
         </LinearLayout>

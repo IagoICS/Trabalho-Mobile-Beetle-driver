@@ -50,7 +50,7 @@
                 android:layout_marginStart="-10dp"
                 android:background="@null"
                 android:contentDescription="@string/enredo"
-                android:scaleType="centerInside"
+                android:scaleType="fitCenter"
                 app:srcCompat="@drawable/main4" />
 
             <ImageButton
