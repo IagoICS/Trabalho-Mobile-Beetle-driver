@@ -23,7 +23,7 @@ public class Gameplay extends AppCompatActivity {
         ImageButton btnyoutube = findViewById(R.id.btnyoutube);
         btnyoutube.setOnClickListener(v -> {
 
-            Uri uri = Uri.parse("https://www.youtube.com/watch?v=TY_MkMIZZDU");
+            Uri uri = Uri.parse("https://youtu.be/BEa3T2DF4N8");
             Intent youtube = new Intent(Intent.ACTION_VIEW, uri);
 
 
