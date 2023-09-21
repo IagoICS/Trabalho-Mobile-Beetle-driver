@@ -4,6 +4,8 @@
 </br>
 </br>
 
+Vídeo mostrando o funcionamento do app: https://youtu.be/wFYpTcfToAs 
+
 - Aplicativo desenvolvido para explicar e contar a história do nosso jogo;
 - O aplicativo contém 4 telas contando com o Menu.;
 - Utilizamos também 4 intents explicita e 4 intent implicita .
