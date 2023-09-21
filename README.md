@@ -4,7 +4,7 @@
 </br>
 </br>
 
-Vídeo mostrando o funcionamento do app: https://youtu.be/wFYpTcfToAs 
+Vídeo mostrando o funcionamento do app: https://www.youtube.com/watch?v=wFYpTcfToAs
 
 - Aplicativo desenvolvido para explicar e contar a história do nosso jogo;
 - O aplicativo contém 4 telas contando com o Menu.;
